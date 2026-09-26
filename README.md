@@ -3,7 +3,7 @@
 Crie personagens de Dungeons & Dragons 5ª edição revisada (2024) e exporte
 a ficha pronta para o FoundryVTT ou em PDF na ficha oficial.
 
-Versão para download e uso local em: https://github.com/gun-hazard/criador-de-fichas-masmorrasedragoes.github.io/criador_de_fichas.zip
+Versão para download e uso local em: https://github.com/gun-hazard/criador-de-fichas-masmorrasedragoes.github.io/blob/main/criador_de_fichas.zip
 
 ## Como usar
 
